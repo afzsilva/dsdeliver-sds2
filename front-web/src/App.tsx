@@ -1,11 +1,13 @@
 import './App.css';
-import Hello from "./Hello";
+import Navbar from "./Navbar";
+import Home from "./Home";
 
 function App() {
   return (
-    <div>
-      <h1>Hello React com TS</h1>
-    </div>
+    <>
+      <Navbar />
+      <Home />
+    </>
   );
 }
 
