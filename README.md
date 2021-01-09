@@ -1,4 +1,4 @@
-# DS Delivery
+# DS Deliver
 
 
 
@@ -14,18 +14,19 @@ Sou muito grato ao pessoal da DevSuperior por pela iniciativa, que veio a refor√
 
 
 
+<br/>
 ### Home
 
 ![home-page](/assets/home-page.png)
 
 
-
+<br/>
 ### Orders
 
 ![orders-page](/assets/orders-page.png)
 
 
-
+<br/>
 ## Tecnologias
 
 - Java + Spring boot
@@ -41,9 +42,9 @@ Sou muito grato ao pessoal da DevSuperior por pela iniciativa, que veio a refor√
 - Mapbox
 
   
-
+<br/>
 ## Como executar
-
+<br/><br/>
 ### Back end 
 
 Pr√© requisitos: Java 11
@@ -59,7 +60,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-
+<br/><br/>
 
 ### Front end
 
@@ -78,7 +79,7 @@ npm install
 # executar o projeto
 npm start
 ```
-
+<br/><br/>
 
 
 ## Author :
