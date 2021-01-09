@@ -15,18 +15,21 @@ Sou muito grato ao pessoal da DevSuperior por pela iniciativa, que veio a refor√
 
 
 <br/>
+
 ### Home
 
 ![home-page](/assets/home-page.png)
 
 
 <br/>
+
 ### Orders
 
 ![orders-page](/assets/orders-page.png)
 
 
 <br/>
+
 ## Tecnologias
 
 - Java + Spring boot
@@ -43,6 +46,7 @@ Sou muito grato ao pessoal da DevSuperior por pela iniciativa, que veio a refor√
 
   
 <br/>
+
 ## Como executar
 <br/><br/>
 ### Back end 
