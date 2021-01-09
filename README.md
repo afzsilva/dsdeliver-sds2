@@ -64,7 +64,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-<br/><br/>
+<br/>
 
 ### Front end
 
@@ -90,5 +90,5 @@ npm start
 
 Afrânio Z Silva
 
-[Linkedin](@https://www.linkedin.com/in/afranioz-analista-programador/)
+[Linkedin](https://www.linkedin.com/in/afranioz-analista-programador/)
 
