@@ -14,7 +14,7 @@ Sou muito grato ao pessoal da DevSuperior por pela iniciativa, que veio a refor√
 
 
 
-<br/>
+<br/><br/>
 
 ### Home
 
@@ -48,7 +48,9 @@ Sou muito grato ao pessoal da DevSuperior por pela iniciativa, que veio a refor√
 <br/>
 
 ## Como executar
+
 <br/><br/>
+
 ### Back end 
 
 Pr√© requisitos: Java 11
